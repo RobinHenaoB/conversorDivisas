@@ -1,26 +1,19 @@
-#  Conversor de Moneda
-##Índice
+# Conversor de Divisas
 
-*[Título e imagen de portada](#Título-e-imagen-de-portada)
+Este programa simple en Java te permite convertir una cantidad de dinero de una divisa a otra, así como convertir entre diferentes unidades de medida de longitud.
 
-*[Insignias](#insignias)
+## Características
 
-*[Índice](#índice)
+- Convierte una cantidad de dinero de una divisa a otra.
+- Convierte entre diferentes unidades de medida de longitud, como metros y pies.
+- Proporciona una interfaz de ventanas para ingresar la cantidad, la tasa de cambio y las medidas.
+- Muestra el resultado de la conversión en una ventana.
 
-*[Descripción del proyecto](#descripción-del-proyecto)
+## Requisitos
 
-*[Estado del proyecto](#Estado-del-proyecto)
+- Java 8 (JRE) instalado en tu sistema.
+- Conexión a Internet (para descargar el JRE si aún no lo tienes).
 
-*[Características de la aplicación y demostración](#Características-de-la-aplicación-y-demostración)
 
-*[Acceso al proyecto](#acceso-proyecto)
 
-*[Tecnologías utilizadas](#tecnologías-utilizadas)
 
-*[Personas Contribuyentes](#personas-contribuyentes)
-
-*[Personas-Desarrolladores del Proyecto](#personas-desarrolladores)
-
-* [Licencia](#licencia)
-
-*[Conclusión](#conclusión)
